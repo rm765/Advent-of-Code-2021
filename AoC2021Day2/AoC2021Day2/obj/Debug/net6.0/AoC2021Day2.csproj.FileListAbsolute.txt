@@ -1,0 +1,14 @@
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\AoC2021Day2.exe
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\AoC2021Day2.deps.json
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\AoC2021Day2.runtimeconfig.json
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\AoC2021Day2.dll
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\ref\AoC2021Day2.dll
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\bin\Debug\net6.0\AoC2021Day2.pdb
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.AssemblyInfoInputs.cache
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.AssemblyInfo.cs
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.csproj.CoreCompileInputs.cache
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.dll
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\ref\AoC2021Day2.dll
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.pdb
+C:\Users\Raf\source\repos\AoC2021Day2\AoC2021Day2\obj\Debug\net6.0\AoC2021Day2.genruntimeconfig.cache

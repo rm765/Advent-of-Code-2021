@@ -1,0 +1,15 @@
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\AoC2021Day1.exe
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\AoC2021Day1.deps.json
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\AoC2021Day1.runtimeconfig.json
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\AoC2021Day1.dll
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\ref\AoC2021Day1.dll
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\bin\Debug\net6.0\AoC2021Day1.pdb
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.csproj.AssemblyReference.cache
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.AssemblyInfoInputs.cache
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.AssemblyInfo.cs
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.csproj.CoreCompileInputs.cache
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.dll
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\ref\AoC2021Day1.dll
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.pdb
+C:\Users\Raf\source\repos\AoC2021Day1\AoC2021Day1\obj\Debug\net6.0\AoC2021Day1.genruntimeconfig.cache
